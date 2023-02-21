@@ -1,3 +1,11 @@
+@font-face {
+  font-family: 'Lobster-Regular';
+  src: url('./Lobster-Regular.ttf') format('.ttf');
+  font-weight: 600;
+}
+
 .hello {
   color: red;
+  font-family: 'Lobster-Regular';
+  background: url('./icon.png');
 }
